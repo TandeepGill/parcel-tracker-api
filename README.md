@@ -27,3 +27,5 @@ Unit tests can be found in the following folder for both the Controller and Serv
 6. Run the application as a Spring Boot Application
 
 # Images
+## Swagger UI API Documentation
+![Swagger UI API Documentation](https://github.com/TandeepGill/parcel-tracker-api/assets/77635364/db500b64-2f77-4b66-a9cd-6f8aabfb0b51)
